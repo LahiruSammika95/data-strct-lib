@@ -1,6 +1,6 @@
 {
-  "name": "data-struct-npm",
-  "version": "1.0.0",
+  "name": "data-struct-lib",
+  "version": "1.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
